@@ -1,7 +1,7 @@
 ## personal-portfolio
 
 # Introduction:
-This personal portfolio project serves as a digital representation of my educational journey, accomplishments and skills. The portfolio website provides visitors with insights into my technical skills, showcases a variety of projects I've worked on, and presents my design aesthetics.
+Welcome to my personal portfolio GitHub repository! This project showcases my journey, skills, and accomplishments in the world of web development and design. Through a collection of carefully crafted HTML, CSS, and JavaScript elements, this portfolio reflects my passion for creating intuitive and visually appealing digital experiences. Explore the diverse range of projects I've undertaken, each highlighting my dedication to clean code, user-centric design, and continuous learning. Whether you're a fellow developer or simply curious, I invite you to delve into my work and discover the evolving story of my technical endeavors.
 
 # Features:
   - Project Showcase: A collection of featured projects, complete with descriptions, screenshots, and links to live demos or source code.
