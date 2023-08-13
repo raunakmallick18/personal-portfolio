@@ -21,7 +21,7 @@ Welcome to my personal portfolio GitHub repository! This project showcases my jo
 
 # Getting Started:
   * Clone this repository: git clone https://github.com/raunakmallick18/personal-portfolio.git
-  * Open index.html in your preferred web browser.
+  * Open **index.html** in your preferred web browser.
 
 # Usage:
 Feel free to explore the code, customize the content, and use this portfolio template for your own personal use. Replace the project details with your own and tailor the design to your preferences.
