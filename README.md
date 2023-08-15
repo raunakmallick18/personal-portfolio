@@ -26,6 +26,10 @@ Welcome to my personal portfolio GitHub repository! This project showcases my jo
 # Usage:
 Feel free to explore the code, customize the content, and use this portfolio template for your own personal use. Replace the project details with your own and tailor the design to your preferences.
 
+# Portfolio Homepage:
+![GitHub Logo](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/path/to/your/image.png)
+
+
 # Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
