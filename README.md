@@ -27,7 +27,7 @@ Welcome to my personal portfolio GitHub repository! This project showcases my jo
 Feel free to explore the code, customize the content, and use this portfolio template for your own personal use. Replace the project details with your own and tailor the design to your preferences.
 
 # Portfolio Homepage:
-![GitHub Logo](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/main/path/to/your/image.png)
+![GitHub Logo](https://github.com/raunakmallick18/personal-portfolio/blob/main/portfolio.jpg)
 
 
 # Contributing:
