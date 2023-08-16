@@ -33,4 +33,4 @@ Feel free to explore the code, customize the content, and use this portfolio tem
 # Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-Thank you for checking out my personal portfolio project! If you have any questions or feedback, please don't hesitate to get in touch.
+*Thank you for checking out my personal portfolio project! If you have any questions or feedback, please don't hesitate to get in touch.*
